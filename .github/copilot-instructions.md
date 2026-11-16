@@ -2,8 +2,6 @@
 
 Project: Brand assets, design tokens, UI mockups and guidelines (no application code).
 
-Full cross-tool rules: `.ai/rules/project.md` (read it first).
-
 ## Essentials
 
 - Write all code, comments, commit messages and documentation in English.
